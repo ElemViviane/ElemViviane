@@ -18,5 +18,5 @@
 <br/>Amo o mundo da TI e vontade de aprender cada dia mais!
 
 ## Contatos
-- [Email](https://mail.google.com/mail/u/0/?tab=rm&ogbl#sent)<br/>
+- [Email](elem7510@gmail.com)<br/>
 - [whatsapp](https://wa.me/+5562991240053)<br/>
