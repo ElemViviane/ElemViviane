@@ -20,3 +20,5 @@
 
 ## Contatos
 - [whatsapp](https://wa.me/+5562991240053)<br/>
+
+<br/>![snake gif] (https://github.com/ElemViviane/ElemViviane/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
