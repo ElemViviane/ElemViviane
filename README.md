@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Elem Viviane👋
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elem.viviane/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elem-viviane-domingos-de-oliveira-451b4a267/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]( https://wa.me/+5562991240053)
+
 
 ![Elem GitHub stats](https://github-readme-stats.vercel.app/api?username=ElemViviane&show_icons=true&theme=synthwave)
 
@@ -18,5 +18,5 @@
 <br/>Amo o mundo da TI e vontade de aprender cada dia mais!
 
 ## Contatos
-- [Email]()<br/>
+- [Email](https://mail.google.com/mail/u/0/?tab=rm&ogbl#sent)<br/>
 - [whatsapp](https://wa.me/+5562991240053)<br/>
